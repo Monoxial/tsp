@@ -7,3 +7,5 @@ To build the project:
 ```
 cargo build --release
 ```
+
+## To compile you have to use the "nightly" version of the compiler. 
